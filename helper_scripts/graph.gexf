@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-07-07">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="B.FR.83.HXB2_LAI_IIIB_BRU.K03455" label="B.FR.83.HXB2_LAI_IIIB_BRU.K03455" />
+      <node id="A.CD.87.2106.MH705158" label="A.CD.87.2106.MH705158" />
+      <node id="B.US.88.WR27.AF286365" label="B.US.88.WR27.AF286365" />
+      <node id="B.US.89.P896_89_6.U39362" label="B.US.89.P896_89_6.U39362" />
+      <node id="B.CY.07.CY188.JF683741" label="B.CY.07.CY188.JF683741" />
+      <node id="B.CY.07.CY189.JF683742" label="B.CY.07.CY189.JF683742" />
+      <node id="B.BR.10.10BR_MG018.KT427683" label="B.BR.10.10BR_MG018.KT427683" />
+      <node id="B.BR.10.10BR_MG020.KT427682" label="B.BR.10.10BR_MG020.KT427682" />
+      <node id="B.GE.03.03GEMZ010.DQ207942" label="B.GE.03.03GEMZ010.DQ207942" />
+      <node id="B.GE.98.98GEMZ003.DQ207943" label="B.GE.98.98GEMZ003.DQ207943" />
+      <node id="B.US.03.981600.KT124813" label="B.US.03.981600.KT124813" />
+      <node id="B.US.03.AT01480.FJ469686" label="B.US.03.AT01480.FJ469686" />
+      <node id="B.US.08.HIV_US_BID_V4394_2008.JQ403089" label="B.US.08.HIV_US_BID_V4394_2008.JQ403089" />
+      <node id="B.US.08.HIV_US_BID_V4397_2008.JQ403091" label="B.US.08.HIV_US_BID_V4397_2008.JQ403091" />
+      <node id="B.CY.07.CY190.JF683743" label="B.CY.07.CY190.JF683743" />
+      <node id="B.BR.10.10BR_MG024.KT427681" label="B.BR.10.10BR_MG024.KT427681" />
+      <node id="B.US.08.HIV_US_BID_V4489_2008.JQ403094" label="B.US.08.HIV_US_BID_V4489_2008.JQ403094" />
+      <node id="B.US.03.CR0154X.FJ469701" label="B.US.03.CR0154X.FJ469701" />
+      <node id="B.US.90.90US_873.AY713412" label="B.US.90.90US_873.AY713412" />
+      <node id="A.CD.87.50.MH705161" label="A.CD.87.50.MH705161" />
+      <node id="B.GW.14.DEMB14GW004.MH078546" label="B.GW.14.DEMB14GW004.MH078546" />
+      <node id="B.CY.07.CY195.JF683747" label="B.CY.07.CY195.JF683747" />
+      <node id="B.BR.10.10BR_MG028.KT427680" label="B.BR.10.10BR_MG028.KT427680" />
+      <node id="C.BW.00.00BW17593.AF443094" label="C.BW.00.00BW17593.AF443094" />
+      <node id="C.BW.00.00BW17732.AF443095" label="C.BW.00.00BW17732.AF443095" />
+      <node id="B.US.90.US1.AY173952" label="B.US.90.US1.AY173952" />
+      <node id="A.CD.87.70641.MH705151" label="A.CD.87.70641.MH705151" />
+      <node id="B.US.09.C1P.GU733713" label="B.US.09.C1P.GU733713" />
+      <node id="B.US.03.DEMB03JP004.KC473846" label="B.US.03.DEMB03JP004.KC473846" />
+      <node id="B.CY.07.CY197.JF683749" label="B.CY.07.CY197.JF683749" />
+      <node id="B.US.03.F7157.FJ469731" label="B.US.03.F7157.FJ469731" />
+      <node id="C.BW.00.00BW17835.AF443096" label="C.BW.00.00BW17835.AF443096" />
+      <node id="B.BR.10.10BR_MG035.KJ849804" label="B.BR.10.10BR_MG035.KJ849804" />
+      <node id="A.CD.87.P4039.MH705157" label="A.CD.87.P4039.MH705157" />
+      <node id="B.US.09.DEMB09US002.JX140657" label="B.US.09.DEMB09US002.JX140657" />
+      <node id="B.US.90.US2.AY173953" label="B.US.90.US2.AY173953" />
+      <node id="B.CY.07.CY198.JF683750" label="B.CY.07.CY198.JF683750" />
+      <node id="B.US.03.HIV_US_BID_V5279_2003.JQ403106" label="B.US.03.HIV_US_BID_V5279_2003.JQ403106" />
+      <node id="C.BW.00.00BW17956.AF443097" label="C.BW.00.00BW17956.AF443097" />
+      <node id="B.CY.07.CY199.JF683751" label="B.CY.07.CY199.JF683751" />
+      <node id="B.US.09.DEMB09US003.KC473824" label="B.US.09.DEMB09US003.KC473824" />
+      <node id="B.BR.10.10BR_MG038.KT427676" label="B.BR.10.10BR_MG038.KT427676" />
+      <node id="A.CD.87.PBS6126.MH705153" label="A.CD.87.PBS6126.MH705153" />
+      <node id="B.US.90.US3.AY173954" label="B.US.90.US3.AY173954" />
+      <node id="B.US.03.L8107.FJ469739" label="B.US.03.L8107.FJ469739" />
+      <node id="C.BW.00.00BW18113.AF443098" label="C.BW.00.00BW18113.AF443098" />
+      <node id="B.CY.07.CY201.JF683753" label="B.CY.07.CY201.JF683753" />
+      <node id="B.US.03.L8116.FJ469740" label="B.US.03.L8116.FJ469740" />
+      <node id="B.US.09.ES38.KC935958" label="B.US.09.ES38.KC935958" />
+      <node id="B.BR.10.10BR_MG039.KT427675" label="B.BR.10.10BR_MG039.KT427675" />
+      <node id="B.US.90.US4.AY173955" label="B.US.90.US4.AY173955" />
+      <node id="A.CD.87.PBS888.MH705133" label="A.CD.87.PBS888.MH705133" />
+      <node id="C.BW.00.00BW18802.AF443100" label="C.BW.00.00BW18802.AF443100" />
+      <node id="B.CY.07.CY202.JF683754" label="B.CY.07.CY202.JF683754" />
+      <node id="B.US.03.L8152.FJ469742" label="B.US.03.L8152.FJ469742" />
+      <node id="B.BR.10.10BR_MG041.KT427673" label="B.BR.10.10BR_MG041.KT427673" />
+      <node id="B.US.09.LTNP1.KC935959" label="B.US.09.LTNP1.KC935959" />
+    </nodes>
+    <edges>
+      <edge id="0" source="B.FR.83.HXB2_LAI_IIIB_BRU.K03455" target="A.CD.87.2106.MH705158" weight="0.151378" />
+      <edge id="1" source="B.FR.83.HXB2_LAI_IIIB_BRU.K03455" target="A.CD.87.50.MH705161" weight="0.13477" />
+      <edge id="2" source="B.FR.83.HXB2_LAI_IIIB_BRU.K03455" target="A.CD.87.70641.MH705151" weight="0.141789" />
+      <edge id="3" source="B.FR.83.HXB2_LAI_IIIB_BRU.K03455" target="A.CD.87.P4039.MH705157" weight="0.145389" />
+      <edge id="4" source="B.FR.83.HXB2_LAI_IIIB_BRU.K03455" target="A.CD.87.PBS6126.MH705153" weight="0.149659" />
+      <edge id="5" source="B.FR.83.HXB2_LAI_IIIB_BRU.K03455" target="A.CD.87.PBS888.MH705133" weight="0.147245" />
+      <edge id="6" source="B.US.88.WR27.AF286365" target="B.US.89.P896_89_6.U39362" weight="0.0745343" />
+      <edge id="7" source="B.US.88.WR27.AF286365" target="B.US.90.90US_873.AY713412" weight="0.0664713" />
+      <edge id="8" source="B.US.88.WR27.AF286365" target="B.US.90.US1.AY173952" weight="0.0710442" />
+      <edge id="9" source="B.US.88.WR27.AF286365" target="B.US.90.US2.AY173953" weight="0.0689298" />
+      <edge id="10" source="B.US.88.WR27.AF286365" target="B.US.90.US3.AY173954" weight="0.0657994" />
+      <edge id="11" source="B.US.88.WR27.AF286365" target="B.US.90.US4.AY173955" weight="0.0762907" />
+      <edge id="12" source="B.CY.07.CY188.JF683741" target="B.CY.07.CY189.JF683742" weight="0.101516" />
+      <edge id="13" source="B.CY.07.CY188.JF683741" target="B.CY.07.CY190.JF683743" weight="0.0937895" />
+      <edge id="14" source="B.CY.07.CY188.JF683741" target="B.CY.07.CY195.JF683747" weight="0.100848" />
+      <edge id="15" source="B.CY.07.CY188.JF683741" target="B.CY.07.CY197.JF683749" weight="0.102019" />
+      <edge id="16" source="B.CY.07.CY188.JF683741" target="B.CY.07.CY198.JF683750" weight="0.10294" />
+      <edge id="17" source="B.CY.07.CY188.JF683741" target="B.CY.07.CY199.JF683751" weight="0.0936174" />
+      <edge id="18" source="B.CY.07.CY188.JF683741" target="B.CY.07.CY201.JF683753" weight="0.100145" />
+      <edge id="19" source="B.CY.07.CY188.JF683741" target="B.CY.07.CY202.JF683754" weight="0.120688" />
+      <edge id="20" source="B.BR.10.10BR_MG018.KT427683" target="B.BR.10.10BR_MG020.KT427682" weight="0.109707" />
+      <edge id="21" source="B.BR.10.10BR_MG018.KT427683" target="B.BR.10.10BR_MG024.KT427681" weight="0.102718" />
+      <edge id="22" source="B.BR.10.10BR_MG018.KT427683" target="B.BR.10.10BR_MG028.KT427680" weight="0.104617" />
+      <edge id="23" source="B.BR.10.10BR_MG018.KT427683" target="B.BR.10.10BR_MG035.KJ849804" weight="0.109975" />
+      <edge id="24" source="B.BR.10.10BR_MG018.KT427683" target="B.BR.10.10BR_MG038.KT427676" weight="0.102865" />
+      <edge id="25" source="B.BR.10.10BR_MG018.KT427683" target="B.BR.10.10BR_MG039.KT427675" weight="0.11059" />
+      <edge id="26" source="B.BR.10.10BR_MG018.KT427683" target="B.BR.10.10BR_MG041.KT427673" weight="0.105048" />
+      <edge id="27" source="B.GE.03.03GEMZ010.DQ207942" target="B.GE.98.98GEMZ003.DQ207943" weight="0.0955286" />
+      <edge id="28" source="B.GE.03.03GEMZ010.DQ207942" target="B.GW.14.DEMB14GW004.MH078546" weight="0.117924" />
+      <edge id="29" source="B.US.03.981600.KT124813" target="B.US.03.AT01480.FJ469686" weight="0.103837" />
+      <edge id="30" source="B.US.03.981600.KT124813" target="B.US.03.CR0154X.FJ469701" weight="0.0934235" />
+      <edge id="31" source="B.US.03.981600.KT124813" target="B.US.03.DEMB03JP004.KC473846" weight="0.107857" />
+      <edge id="32" source="B.US.03.981600.KT124813" target="B.US.03.F7157.FJ469731" weight="0.103557" />
+      <edge id="33" source="B.US.03.981600.KT124813" target="B.US.03.HIV_US_BID_V5279_2003.JQ403106" weight="0.108834" />
+      <edge id="34" source="B.US.03.981600.KT124813" target="B.US.03.L8107.FJ469739" weight="0.094613" />
+      <edge id="35" source="B.US.03.981600.KT124813" target="B.US.03.L8116.FJ469740" weight="0.108168" />
+      <edge id="36" source="B.US.03.981600.KT124813" target="B.US.03.L8152.FJ469742" weight="0.0971181" />
+      <edge id="37" source="B.US.08.HIV_US_BID_V4394_2008.JQ403089" target="B.US.08.HIV_US_BID_V4397_2008.JQ403091" weight="0.0936267" />
+      <edge id="38" source="B.US.08.HIV_US_BID_V4394_2008.JQ403089" target="B.US.08.HIV_US_BID_V4489_2008.JQ403094" weight="0.110207" />
+      <edge id="39" source="B.US.08.HIV_US_BID_V4394_2008.JQ403089" target="B.US.09.C1P.GU733713" weight="0.101754" />
+      <edge id="40" source="B.US.08.HIV_US_BID_V4394_2008.JQ403089" target="B.US.09.DEMB09US002.JX140657" weight="0.10986" />
+      <edge id="41" source="B.US.08.HIV_US_BID_V4394_2008.JQ403089" target="B.US.09.DEMB09US003.KC473824" weight="0.0959971" />
+      <edge id="42" source="B.US.08.HIV_US_BID_V4394_2008.JQ403089" target="B.US.09.ES38.KC935958" weight="0.104717" />
+      <edge id="43" source="B.US.08.HIV_US_BID_V4394_2008.JQ403089" target="B.US.09.LTNP1.KC935959" weight="0.101316" />
+      <edge id="44" source="C.BW.00.00BW17593.AF443094" target="C.BW.00.00BW17732.AF443095" weight="0.0850376" />
+      <edge id="45" source="C.BW.00.00BW17593.AF443094" target="C.BW.00.00BW17835.AF443096" weight="0.0851099" />
+      <edge id="46" source="C.BW.00.00BW17593.AF443094" target="C.BW.00.00BW17956.AF443097" weight="0.084318" />
+      <edge id="47" source="C.BW.00.00BW17593.AF443094" target="C.BW.00.00BW18113.AF443098" weight="0.083049" />
+      <edge id="48" source="C.BW.00.00BW17593.AF443094" target="C.BW.00.00BW18802.AF443100" weight="0.0880042" />
+    </edges>
+  </graph>
+</gexf>
