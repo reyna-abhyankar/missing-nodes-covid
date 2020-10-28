@@ -1,0 +1,33 @@
+Steps and scripts needed
+
+Master Notebook - takes in a range of files and runs start-to-finish process on each (in parallel?)
+Start-to-finish Notebook - takes in a favites dataset and spits out a plot for each experiment listed above
+
+Things to think about: 
+    - data persistence/storage?
+    - making new folders/files and where they are being made?
+    - how to integrate this with a web app?
+
+Graph
+1. Convert FAVITES file format to a graph tool object
+    - getting favites file from gitlab
+    - separating favites file into nodes and edges without creating new files
+    - output: create new folder properly labeled
+    - TBD: infection probability, suffix
+2. Convert that graph tool object into a weighted graph with infection probability
+    - use cascade reconstruction repo file
+
+Cascades
+1. Convert FAVITES file format to usable cascades and save to a pickle file
+    - output: create new folder properly labeled
+    - vary the observed fraction from [0.1, 0.9]
+
+Experiment 1
+1. Run root sampler experiments on each pickle file (in parallel)
+2. Save AP score to an output file
+3. Generate plot of observed fraction vs AP score
+
+Experiment 2
+1. Run probabilistic experiment (as reflected by paper lattice experiment)
+2. Save plot
+
