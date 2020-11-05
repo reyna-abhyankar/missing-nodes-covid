@@ -28,14 +28,12 @@ def favites_to_gt(contacts):
         except: 
             assert False, "Contact network is not in the FAVITES format"
 
+        # add to graph
         g.add_edge(u,v)
         g.add_edge(v,u)
     return g
 
-def main(arg_contacts, arg_output):
-    contacts = arg_contacts
-    output = arg_output
-
+def main(contacts, output):
     if contacts.lower().endswith('.gz'):
         contacts = gopen(contacts)
     else:
